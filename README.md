@@ -3,8 +3,8 @@ Registro de Alunos
 
 Objetivo: 
 O projeto Registro de Alunos é um programa em linguagem C desenvolvido para facilitar o cadastro de estudantes em cursos de forma automática e organizada. O objetivo é tornar o registro rápido, prático e confiável.
-Funcionalidades:
 
+Funcionalidades:
 Cadastro de nome, idade e matrícula do aluno. Seleção de curso e turno. Possibilidade de adicionar múltiplos alunos em uma única execução. Exibição organizada dos dados cadastrados.
 
 Autores: 
