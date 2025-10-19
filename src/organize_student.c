@@ -106,4 +106,4 @@ int main (){
     
     printf("Encerrando o sistema de cadastro...\n");
     return 0;
-}
+} 
